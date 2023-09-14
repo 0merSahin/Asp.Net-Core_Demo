@@ -1,0 +1,12 @@
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.deps.json
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfo.cs
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.dll
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/refint/EntityLayer.dll
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
+/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll
