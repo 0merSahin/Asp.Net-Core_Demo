@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace DataAccessLayer.Abstract
 {
 	public interface IGenericDal<T> where T : class
@@ -11,8 +12,7 @@ namespace DataAccessLayer.Abstract
 
 		List<T> GetListAll();
 
-		T GetBtID(int id);
-
+		T GetByID(int id);
 	}
 }
 
