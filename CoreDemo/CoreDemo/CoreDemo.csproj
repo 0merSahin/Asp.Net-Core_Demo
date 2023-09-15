@@ -30,10 +30,4 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration" Version="6.0.16" />
   </ItemGroup>
-  <ItemGroup>
-    <None Remove="Views\Category\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\Category\" />
-  </ItemGroup>
 </Project>
