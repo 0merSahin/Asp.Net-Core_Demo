@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A0KdSt3V6pRkTHcB+AF8G4eFF7T+gu10K0u3m1S9AVTKkg2eYkVu1eJ4YawfCz+sYV56qNz+BrGdH1DhRbTkvA==",
+  "dgSpecHash": "OFMwKTrdJJy8MeW5QrGjndyyOVV2tpNhfFxwUCZlPDUu71NdwG4JpQPHmP+1dVF0QPgzz3CElNnlkSjvnz04sA==",
   "success": true,
-  "projectFilePath": "/Users/omersahin/Desktop/CoreDemo/BusinessLayer/BusinessLayer.csproj",
+  "projectFilePath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/BusinessLayer/BusinessLayer.csproj",
   "expectedPackageFiles": [
     "/Users/omersahin/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",

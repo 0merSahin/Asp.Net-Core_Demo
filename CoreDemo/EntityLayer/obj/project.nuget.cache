@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfkDVKGPv5CZq2QYtVFmNC1ZhJH1En4vks+p8ktA2Yd0DHTkJhbUTpwFjl+cvixswEj9G5bYVVu4PGGoEI7pnw==",
+  "dgSpecHash": "nC+33xgzeawt7d3Hf77Jq6K6WFWfjV6JOoH2umNd3Tq3aqJ5/hAg04nO/CNV5E8GGTiDMxX69lNpNe0+ZxsIlg==",
   "success": true,
-  "projectFilePath": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj",
+  "projectFilePath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/EntityLayer/EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
