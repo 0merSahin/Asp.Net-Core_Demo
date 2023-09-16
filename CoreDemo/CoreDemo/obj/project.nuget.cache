@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYkLgxj59QkCZIYlega3j+Zq6hOjTxJ9cOMekM/hADKBM4fZSyeIVMP/iSCZ1fetMJ3gHOoiTFPuxCh57wYJRQ==",
+  "dgSpecHash": "vIsjydJbALtA2y4VtvV3I/IGe7kZD+hB1zFI4MKDR3tHRqmihTME9HXCshDyL+2DteJRjMx3rXIrrVmNc4nagA==",
   "success": true,
-  "projectFilePath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/CoreDemo/CoreDemo.csproj",
+  "projectFilePath": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/CoreDemo.csproj",
   "expectedPackageFiles": [
     "/Users/omersahin/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

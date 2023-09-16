@@ -32,8 +32,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Category\" />
+    <None Remove="Views\Blog\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
+    <Folder Include="Views\Blog\" />
   </ItemGroup>
 </Project>

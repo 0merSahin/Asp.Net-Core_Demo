@@ -2196,11 +2196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+      "projectUniqueName": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+      "projectPath": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
       "packagesPath": "/Users/omersahin/.nuget/packages/",
-      "outputPath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/DataAccessLayer/obj/",
+      "outputPath": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omersahin/.nuget/NuGet/NuGet.Config"
@@ -2215,8 +2215,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/EntityLayer/EntityLayer.csproj": {
-              "projectPath": "/Users/omersahin/Documents/GitHub/Asp.Net-Core_Demo/CoreDemo/EntityLayer/EntityLayer.csproj"
+            "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj"
             }
           }
         }
