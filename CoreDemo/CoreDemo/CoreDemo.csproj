@@ -33,9 +33,11 @@
   <ItemGroup>
     <None Remove="Views\Category\" />
     <None Remove="Views\Blog\" />
+    <None Remove="Views\Comment\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
     <Folder Include="Views\Blog\" />
+    <Folder Include="Views\Comment\" />
   </ItemGroup>
 </Project>

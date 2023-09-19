@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 namespace DataAccessLayer.Abstract
 {
@@ -13,6 +14,8 @@ namespace DataAccessLayer.Abstract
 		List<T> GetListAll();
 
 		T GetByID(int id);
+
+		List<T> GetListAll(Expression<Func<T, bool>> filter);
 	}
 }
 
