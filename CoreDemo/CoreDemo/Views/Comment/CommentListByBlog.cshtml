@@ -1,8 +1,14 @@
-﻿
+﻿@model IEnumerable<EntityLayer.Concrete.Comment>
+
+@{
+    ViewData["Title"] = "CommentListByBlog";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+
 <div class="comment-top">
     <h4>Yorumlar</h4>
     <div class="media">
-        <img src="images/t1.jpg" alt="" class="img-fluid" />
+        <img src="~/CoreBlogWeb/images/t1.jpg" alt="" class="img-fluid" />
         <div class="media-body">
             <h5 class="mt-0">Joseph Goh</h5>
             <p>

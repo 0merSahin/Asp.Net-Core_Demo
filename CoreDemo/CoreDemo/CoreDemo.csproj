@@ -34,10 +34,20 @@
     <None Remove="Views\Category\" />
     <None Remove="Views\Blog\" />
     <None Remove="Views\Comment\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\CommentList\" />
+    <None Remove="ViewComponents\Comment\" />
+    <None Remove="Views\Shared\Components\CommentListByBlog\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
     <Folder Include="Views\Blog\" />
     <Folder Include="Views\Comment\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\CommentList\" />
+    <Folder Include="ViewComponents\Comment\" />
+    <Folder Include="Views\Shared\Components\CommentListByBlog\" />
   </ItemGroup>
 </Project>
