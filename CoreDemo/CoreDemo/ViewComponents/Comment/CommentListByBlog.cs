@@ -11,7 +11,7 @@ namespace CoreDemo.ViewComponents.Comment
 
         public IViewComponentResult Invoke()
         {
-            var values = cm.GetList(1);
+            var values = cm.GetList(3);
             return View(values);
         }
     }
