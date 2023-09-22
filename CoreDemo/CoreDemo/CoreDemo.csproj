@@ -39,6 +39,8 @@
     <None Remove="Views\Shared\Components\CommentList\" />
     <None Remove="ViewComponents\Comment\" />
     <None Remove="Views\Shared\Components\CommentListByBlog\" />
+    <None Remove="ViewComponents\Category\" />
+    <None Remove="Views\Shared\Components\CategoryList\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
@@ -49,5 +51,7 @@
     <Folder Include="Views\Shared\Components\CommentList\" />
     <Folder Include="ViewComponents\Comment\" />
     <Folder Include="Views\Shared\Components\CommentListByBlog\" />
+    <Folder Include="ViewComponents\Category\" />
+    <Folder Include="Views\Shared\Components\CategoryList\" />
   </ItemGroup>
 </Project>
