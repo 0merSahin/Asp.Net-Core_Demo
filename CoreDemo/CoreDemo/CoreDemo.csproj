@@ -41,6 +41,7 @@
     <None Remove="Views\Shared\Components\CommentListByBlog\" />
     <None Remove="ViewComponents\Category\" />
     <None Remove="Views\Shared\Components\CategoryList\" />
+    <None Remove="Views\Register\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
@@ -53,5 +54,6 @@
     <Folder Include="Views\Shared\Components\CommentListByBlog\" />
     <Folder Include="ViewComponents\Category\" />
     <Folder Include="Views\Shared\Components\CategoryList\" />
+    <Folder Include="Views\Register\" />
   </ItemGroup>
 </Project>

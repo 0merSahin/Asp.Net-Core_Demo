@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m+xmSLe2f9wh+ljraI981NtivIJk5iQlY67MNjJY9jI=",
+  "Hash": "bkTNwWHnDUALY0/mi9XeeEoKXnzTgA9yvRMCZqdqB3A=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
@@ -219,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/CoreBlogWeb/css/jquery.desoslide.css"
+    },
+    {
+      "Identity": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/loggedIn.css",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "CoreBlogWeb/css/loggedIn.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/CoreBlogWeb/css/loggedIn.css"
     },
     {
       "Identity": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/single.css",
@@ -899,6 +916,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/CoreBlogWeb/js/move-top.js"
+    },
+    {
+      "Identity": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/loggedIn.html",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "CoreBlogWeb/loggedIn.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/CoreBlogWeb/loggedIn.html"
     },
     {
       "Identity": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/login.html",

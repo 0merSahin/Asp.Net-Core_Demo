@@ -2,18 +2,31 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BusinessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace CoreDemo.Controllers
 {
     public class RegisterController : Controller
     {
-        // GET: /<controller>/
+        WriterManager wm = new WriterManager(new EfWriterRepository());
+
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Index(Writer p)
+        {
+            p.WriterStatus = true;
+            p.WriterAbout = "Deneme About";
+            wm.WriterAdd(p);
+            //return RedirectToAction("Index", "Blog"); // Kullanıcıyı Blog'un Index'ine yönlendiriyoruz.
+            return RedirectToAction("loggedIn.html", "CoreBlogWeb");
         }
     }
 }

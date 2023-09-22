@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets/CoreBlogWeb/css/jquery.desoslide.css"
     },
     {
+      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/loggedIn.css",
+      "PackagePath": "staticwebassets/CoreBlogWeb/css/loggedIn.css"
+    },
+    {
       "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/single.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/single.css"
     },
@@ -203,6 +207,10 @@
     {
       "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/move-top.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/move-top.js"
+    },
+    {
+      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/loggedIn.html",
+      "PackagePath": "staticwebassets/CoreBlogWeb/loggedIn.html"
     },
     {
       "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/login.html",
