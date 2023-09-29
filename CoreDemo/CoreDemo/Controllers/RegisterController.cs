@@ -25,8 +25,8 @@ namespace CoreDemo.Controllers
             p.WriterStatus = true;
             p.WriterAbout = "Deneme About";
             wm.WriterAdd(p);
-            //return RedirectToAction("Index", "Blog"); // Kullanıcıyı Blog'un Index'ine yönlendiriyoruz.
-            return RedirectToAction("loggedIn.html", "CoreBlogWeb");
+            return RedirectToAction("Index", "Blog"); // Kullanıcıyı Blog'un Index'ine yönlendiriyoruz.
+            //return RedirectToAction("loggedIn.html", "CoreBlogWeb");
         }
     }
 }
