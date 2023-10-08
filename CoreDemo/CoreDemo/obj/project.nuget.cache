@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vIsjydJbALtA2y4VtvV3I/IGe7kZD+hB1zFI4MKDR3tHRqmihTME9HXCshDyL+2DteJRjMx3rXIrrVmNc4nagA==",
+  "dgSpecHash": "enf4axNM0PID6nn4d5rEnudWjthxb18bREjXBRQSFOLemafk4YRYhalpZbwvQLEH3kylwUb7MYXjZwS0gddsxQ==",
   "success": true,
   "projectFilePath": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/CoreDemo.csproj",
   "expectedPackageFiles": [
+    "/Users/omersahin/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/omersahin/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/omersahin/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
