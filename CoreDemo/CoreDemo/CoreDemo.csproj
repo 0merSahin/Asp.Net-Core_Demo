@@ -44,6 +44,10 @@
     <None Remove="ViewComponents\Category\" />
     <None Remove="Views\Shared\Components\CategoryList\" />
     <None Remove="Views\Register\" />
+    <None Remove="Views\Login\" />
+    <None Remove="ViewComponents\Blog\" />
+    <None Remove="Views\Shared\Components\WriterLastBlog\" />
+    <None Remove="Views\NewsLetter\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
@@ -57,5 +61,9 @@
     <Folder Include="ViewComponents\Category\" />
     <Folder Include="Views\Shared\Components\CategoryList\" />
     <Folder Include="Views\Register\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="ViewComponents\Blog\" />
+    <Folder Include="Views\Shared\Components\WriterLastBlog\" />
+    <Folder Include="Views\NewsLetter\" />
   </ItemGroup>
 </Project>

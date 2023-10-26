@@ -1,531 +1,531 @@
 {
   "Files": [
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/obj/Debug/net6.0/scopedcss/projectbundle/CoreDemo.bundle.scp.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/obj/Debug/net6.0/scopedcss/projectbundle/CoreDemo.bundle.scp.css",
       "PackagePath": "staticwebassets/CoreDemo.bundle.scp.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/.DS_Store",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/about.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/about.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/about.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog1.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog1.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/blog1.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog2.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog2.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/blog2.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog3.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/blog3.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/blog3.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/contact.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/contact.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/contact.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/bootstrap.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/bootstrap.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/bootstrap.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/contact.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/contact.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/contact.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/fontawesome-all.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/fontawesome-all.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/fontawesome-all.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/jquery.desoslide.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/jquery.desoslide.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/jquery.desoslide.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/loggedIn.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/loggedIn.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/loggedIn.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/single.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/single.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/single.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/style.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/css/style.css",
       "PackagePath": "staticwebassets/CoreBlogWeb/css/style.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/1.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/1.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/1.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/2.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/2.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/2.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/3.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/3.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/3.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/4.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/4.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/4.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/5.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/5.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/5.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/6.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/6.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/6.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/7.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/7.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/7.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/8.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/8.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/8.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/Thumbs.db",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/Thumbs.db",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/Thumbs.db"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b1.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b1.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/b1.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b2.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b2.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/b2.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b3.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b3.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/b3.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b4.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b4.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/b4.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b5.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/b5.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/b5.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner1.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner1.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/banner1.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner2.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner2.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/banner2.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner3.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner3.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/banner3.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner4.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner4.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/banner4.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner5.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/banner5.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/banner5.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/left.png",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/left.png",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/left.png"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m1.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m1.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/m1.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m2.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m2.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/m2.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m3.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m3.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/m3.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m4.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/m4.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/m4.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/right.png",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/right.png",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/right.png"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t1.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t1.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/t1.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t2.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t2.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/t2.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t3.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t3.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/t3.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t4.jpg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/t4.jpg",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/t4.jpg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/top_up.png",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/images/top_up.png",
       "PackagePath": "staticwebassets/CoreBlogWeb/images/top_up.png"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/index.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/index.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/index.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/bootstrap.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/bootstrap.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/bootstrap.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/easing.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/easing.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/easing.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery-2.2.3.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery-2.2.3.min.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/jquery-2.2.3.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery.desoslide.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery.desoslide.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/jquery.desoslide.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery.flexisel.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/jquery.flexisel.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/jquery.flexisel.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/modernizr.custom.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/modernizr.custom.min.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/modernizr.custom.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/move-top.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/js/move-top.js",
       "PackagePath": "staticwebassets/CoreBlogWeb/js/move-top.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/loggedIn.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/loggedIn.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/loggedIn.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/login.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/login.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/login.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/register.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/register.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/register.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/single.html",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/single.html",
       "PackagePath": "staticwebassets/CoreBlogWeb/single.html"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/w3layouts-license.txt",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/w3layouts-license.txt",
       "PackagePath": "staticwebassets/CoreBlogWeb/w3layouts-license.txt"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.eot",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.eot",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-brands-400.eot"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.svg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.svg",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-brands-400.svg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.ttf",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.ttf",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-brands-400.ttf"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.woff",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.woff",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-brands-400.woff"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.woff2",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-brands-400.woff2",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-brands-400.woff2"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.eot",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.eot",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-regular-400.eot"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.svg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.svg",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-regular-400.svg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.ttf",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.ttf",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-regular-400.ttf"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.woff",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.woff",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-regular-400.woff"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.woff2",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-regular-400.woff2",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-regular-400.woff2"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.eot",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.eot",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-solid-900.eot"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.svg",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.svg",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-solid-900.svg"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.ttf",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.ttf",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-solid-900.ttf"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.woff",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.woff",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-solid-900.woff"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.woff2",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/CoreBlogWeb/webfonts/fa-solid-900.woff2",
       "PackagePath": "staticwebassets/CoreBlogWeb/webfonts/fa-solid-900.woff2"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/css/site.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/favicon.ico",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/js/site.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/omersahin/Desktop/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

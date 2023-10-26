@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj": {}
+    "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj": {}
   },
   "projects": {
-    "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj": {
+    "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+        "projectPath": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
         "packagesPath": "/Users/omersahin/.nuget/packages/",
-        "outputPath": "/Users/omersahin/Desktop/CoreDemo/DataAccessLayer/obj/",
+        "outputPath": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omersahin/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj"
+              "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj": {
+    "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/omersahin/.nuget/packages/",
-        "outputPath": "/Users/omersahin/Desktop/CoreDemo/EntityLayer/obj/",
+        "outputPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omersahin/.nuget/NuGet/NuGet.Config"
