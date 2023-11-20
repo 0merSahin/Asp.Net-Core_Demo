@@ -49,6 +49,7 @@
     <None Remove="Views\Shared\Components\WriterLastBlog\" />
     <None Remove="Views\NewsLetter\" />
     <None Remove="Views\ErrorPage\" />
+    <None Remove="Views\Writer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Category\" />
@@ -67,5 +68,6 @@
     <Folder Include="Views\Shared\Components\WriterLastBlog\" />
     <Folder Include="Views\NewsLetter\" />
     <Folder Include="Views\ErrorPage\" />
+    <Folder Include="Views\Writer\" />
   </ItemGroup>
 </Project>
