@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zc8WO8lSLkth6bYC1fRJ6S3nULjy25gq9r0REfcQYZl20rvbF7jKQ1RvGA+DI8WSxqUWcqlMOv0XBCkxt8HnXw==",
+  "dgSpecHash": "n4Yrpg1TOkr0s2t8LawJRjyvP8xBc0IP19RmCLekgeQn+cesOBl8dGUnFTyTcqOFvbLGf6wL1eVAMx2jZgfoMg==",
   "success": true,
-  "projectFilePath": "/Users/omersahin/SecondSide/CoreDemo/CoreDemo/CoreDemo.csproj",
+  "projectFilePath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreDemo/CoreDemo.csproj",
   "expectedPackageFiles": [
     "/Users/omersahin/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/omersahin/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

@@ -2196,11 +2196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+      "projectUniqueName": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
+      "projectPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/DataAccessLayer/DataAccessLayer.csproj",
       "packagesPath": "/Users/omersahin/.nuget/packages/",
-      "outputPath": "/Users/omersahin/SecondSide/CoreDemo/DataAccessLayer/obj/",
+      "outputPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/DataAccessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omersahin/.nuget/NuGet/NuGet.Config"
@@ -2215,8 +2215,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj": {
-              "projectPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj"
+            "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/EntityLayer/EntityLayer.csproj"
             }
           }
         }
@@ -2266,7 +2266,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

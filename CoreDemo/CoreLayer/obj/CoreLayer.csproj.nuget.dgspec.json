@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omersahin/SecondSide/CoreDemo/CoreLayer/CoreLayer.csproj": {}
+    "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreLayer/CoreLayer.csproj": {}
   },
   "projects": {
-    "/Users/omersahin/SecondSide/CoreDemo/CoreLayer/CoreLayer.csproj": {
+    "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreLayer/CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omersahin/SecondSide/CoreDemo/CoreLayer/CoreLayer.csproj",
+        "projectUniqueName": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreLayer/CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "/Users/omersahin/SecondSide/CoreDemo/CoreLayer/CoreLayer.csproj",
+        "projectPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreLayer/CoreLayer.csproj",
         "packagesPath": "/Users/omersahin/.nuget/packages/",
-        "outputPath": "/Users/omersahin/SecondSide/CoreDemo/CoreLayer/obj/",
+        "outputPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/CoreLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omersahin/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }

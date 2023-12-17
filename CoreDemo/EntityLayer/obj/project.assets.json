@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj",
+      "projectUniqueName": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/EntityLayer/EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/EntityLayer.csproj",
+      "projectPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/EntityLayer/EntityLayer.csproj",
       "packagesPath": "/Users/omersahin/.nuget/packages/",
-      "outputPath": "/Users/omersahin/SecondSide/CoreDemo/EntityLayer/obj/",
+      "outputPath": "/Users/omersahin/SecondSide/Core Demo Projects/CoreDemo/EntityLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omersahin/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }
